@@ -1,6 +1,6 @@
 <!-- Ниже картинка Gif -->
 <div id="header" align="center">
-  <img src="https://walt.community/static/img/gifs/art8_passion.gif" width="200" />
+  <img src="https://i.servimg.com/u/f21/14/41/17/00/titi_o10.gif" width="200" />
 </div>
 <!-- Это приветствие с GIF -->
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Igor Kiryanov</a> 
