@@ -1,6 +1,6 @@
 <!-- Ниже картинка Gif -->
 <div id="header" align="center">
-  <img src="https://riamobalashiha.ru/files/image/05/63/49/-lg!0nuh.gif" width="150" border-radius="15"/>
+  <img src="https://expertnov.ru/800/600/http/c.tenor.com/X8854xxuQ_EAAAAd/destroy-code-mad.gif" width="150" border-radius="15"/>
 </div>
 <!-- Это ссылки на иконки социальных сетей -->
 <div id="badges">
