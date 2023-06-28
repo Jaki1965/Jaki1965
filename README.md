@@ -1,6 +1,13 @@
 <!-- Ниже картинка Gif -->
+<style>
+  .gif{
+    width: 100px;
+    border-radius: 15px;
+    
+  }
+</style>
 <div id="header" align="center">
-  <img src="https://expertnov.ru/800/600/http/c.tenor.com/X8854xxuQ_EAAAAd/destroy-code-mad.gif" width="150" border-radius="15"/>
+  <img src="https://expertnov.ru/800/600/http/c.tenor.com/X8854xxuQ_EAAAAd/destroy-code-mad.gif" class="gif" />
 </div>
 <!-- Это ссылки на иконки социальных сетей -->
 <div id="badges">
