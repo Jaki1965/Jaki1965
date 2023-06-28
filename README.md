@@ -1,10 +1,10 @@
 <!-- Ниже картинка Gif -->
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Igor Kiryanov</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" width="200" />
 </div>
+<!-- Это приветствие с GIF -->
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Igor Kiryanov</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <!-- Это ссылки на иконки социальных сетей -->
 <!-- <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
