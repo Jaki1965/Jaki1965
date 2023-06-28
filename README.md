@@ -2,7 +2,8 @@
 ### 
 <h1 align="center">Hi there, I'm <a>Igor Kiryanov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="27"/></h1>
-<h3 align="center">Frontend developer from Russia 🇷🇺</h3>
+<h3 align="center">Frontend developer from Russia <img src="https://usagif.com/wp-content/uploads/gifs/russian-flag-3.gif" height="27"/></h3>
+
 
 <!--
 **Jaki1965/Jaki1965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
