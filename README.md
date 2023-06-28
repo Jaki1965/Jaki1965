@@ -11,6 +11,13 @@
 <h2 align="center">Frontend developer from Russia <img src="https://usagif.com/wp-content/uploads/gifs/russian-flag-3.gif" height="15"/></h2>
 
 ### :man_technologist: About Me :
+- :telescope: I’m contributing to frontend projects of my friends for building web applications..
+
+- :seedling: Exploring Additional React Libraries.
+
+- :zap: In my free time, read books and articles about different technologies backend. I'm so interested it..
+
+
 
 
 
