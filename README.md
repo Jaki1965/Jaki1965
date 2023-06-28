@@ -1,6 +1,6 @@
 <!-- Ниже картинка Gif -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" width="200" />
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--yMoF-zrU--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2zs4hb7x23zv5cgiro7z.gif" width="200" />
 </div>
 <!-- Это приветствие с GIF -->
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Igor Kiryanov</a> 
@@ -9,6 +9,8 @@
 <div id="me" align="center">
   <img src="https://xozayka.ru/wp-content/uploads/2023/02/software-developer-g4d9d6950c_1920.jpg" width="400" />
 </div>
+##:man_technologist: About Me :
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 <!-- Это ссылки на иконки социальных сетей -->
 <!-- <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
