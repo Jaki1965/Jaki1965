@@ -1,6 +1,6 @@
 <!-- Ниже картинка Gif -->
 <div id="header" align="center">
-  <img src="https://i.gifer.com/fyFn.gif" width="150"/>
+  <img src="https://riamobalashiha.ru/files/image/05/63/49/-lg!0nuh.gif" width="150"/>
 </div>
 <!-- Это ссылки на иконки социальных сетей -->
 <div id="badges">
