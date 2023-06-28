@@ -1,8 +1,8 @@
-
-###:man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- * разаработчик
-
+### Моя страница
+### 
+<h1 align="center">Hi there, I'm <a>Igor Kiryanov</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="27"/></h1>
+<h3 align="center">Frontend developer from Russia 🇷🇺</h3>
 
 <!--
 **Jaki1965/Jaki1965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
